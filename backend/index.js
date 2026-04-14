@@ -1,7 +1,7 @@
 //username and password
 //organization
 //issue
-//board
+//board database
 const user =[];
 const organization=[];
 const issue = [];
