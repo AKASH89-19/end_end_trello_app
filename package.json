@@ -1,9 +1,0 @@
-{
-  "main": "backend/index.js",
-  "scripts": {
-    "start": "node backend/index.js"
-  },
-  "dependencies": {
-    "express": "^5.2.1"
-  }
-}
