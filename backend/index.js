@@ -11,6 +11,7 @@ const express = require("express")
 const user =[];
 const organization=[];
 const issue = [];
+const boards =[];
 const app = express()
 app.get("/", (req, res) => {
     res.send("Server is working!")
