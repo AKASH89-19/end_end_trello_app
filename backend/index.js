@@ -1,7 +1,10 @@
-//username and password
-//organization
-//issue
-//board database
+/*
+//username and password | USERS TABLE(DB)
+//organization | ORGANISATION TABLE(DB)
+//issue | ISSUE TABLE(DB)
+//board database | BOARD TABLE(DB)
+these are all the data schems used before building
+*/
 const express = require("express")
 const user =[];
 const organization=[];
