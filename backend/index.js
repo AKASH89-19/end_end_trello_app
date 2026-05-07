@@ -5,6 +5,8 @@
 //board database | BOARD TABLE(DB)
 these are all the data schems used before building
 */
+
+
 const express = require("express")
 const user =[];
 const organization=[];
